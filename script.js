@@ -1,4 +1,4 @@
 // Dynamic interactivity setup
 document.addEventListener('DOMContentLoaded', () => {
-    console.log("Sharthi AI Website Loaded Successfully.");
+    console.log("Tungsten AI Website Loaded Successfully.");
 });
